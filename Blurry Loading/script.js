@@ -12,7 +12,6 @@ function rangeCoversion(origMin, origMax, newMin, newMax,givenVal)
 }
 
 
-// xFactor = rangeCoversion()
 
 function loading()
 {
